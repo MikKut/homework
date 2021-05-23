@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LinqClass2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("BullsAndCows")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("LinqClass2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LinqClass2")]
+[assembly: System.Reflection.AssemblyProductAttribute("BullsAndCows")]
+[assembly: System.Reflection.AssemblyTitleAttribute("BullsAndCows")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

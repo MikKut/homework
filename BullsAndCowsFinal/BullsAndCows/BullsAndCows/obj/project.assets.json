@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\LinqClass2\\LinqClass2\\LinqClass2.csproj",
-      "projectName": "LinqClass2",
-      "projectPath": "C:\\Users\\User\\source\\repos\\LinqClass2\\LinqClass2\\LinqClass2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\BullsAndCowsFinal\\BullsAndCows\\BullsAndCows\\BullsAndCows.csproj",
+      "projectName": "BullsAndCows",
+      "projectPath": "C:\\Users\\User\\source\\repos\\BullsAndCowsFinal\\BullsAndCows\\BullsAndCows\\BullsAndCows.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\LinqClass2\\LinqClass2\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\BullsAndCowsFinal\\BullsAndCows\\BullsAndCows\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
